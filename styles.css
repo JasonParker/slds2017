@@ -1,0 +1,11 @@
+.gdbar img {
+  width: 297px !important;
+  height: 162px !important;
+  margin: 0px 0px;
+}
+
+.gdbar {
+  background-color: transparent; 
+  width: 297px !important;
+  height: 162px !important;
+}
